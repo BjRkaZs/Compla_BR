@@ -18,6 +18,16 @@ const state = {
     mode: 'add'
 }
 
+
+/*
+* File: app.js
+* Author: Bajusz Réka
+* Copyright: 2024, Bajusz Réka
+* Group: Szoft V
+* Date: 2024-05-07
+* Github: https://github.com/BjRkaZs/Compla_BR.git
+* Licenc: GNU GPL
+*/
 getComplaints()
 function setComplaintsState() { 
     state.id = doc.idInput.value

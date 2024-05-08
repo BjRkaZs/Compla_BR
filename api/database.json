@@ -2,31 +2,31 @@
   "complaints": [
     {
       "id": 1,
-      "description": "Vízhatlan",
+      "description": "Beázott",
       "complainant": "Beázott Ernő",
       "products": "Óra",
-      "type": 111
+      "type": "vizsgálat alatt"
     },
     {
       "id": 2,
-      "description": "Rozsdamentes",
+      "description": "Berozsdásodott 1 hét után",
       "complainant": "Berozsdásodott Gábor",
       "products": "Serpenyő",
-      "type": 121
+      "type": "új"
     },
     {
       "id": 3,
-      "description": "Strapabíró",
+      "description": "Strapabíró cipő szétment 2 használatot követően",
       "complainant": "Szétment Vili",
       "products": "Cipő",
-      "type": 101
+      "type": "lezárva"
     },
     {
       "id": 4,
-      "description": "Lejárati év: 2025",
+      "description": "Bepenészedett pedig tegnap vettem",
       "complainant": "Penész Lenke",
       "products": "Sajt",
-      "type": 103
+      "type": "új"
     }
   ]
 }
